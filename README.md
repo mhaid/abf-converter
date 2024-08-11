@@ -1,9 +1,9 @@
 # ABF-converter
-Conversion of ABF files to make them compatible with the mini analysis program
+Conversion of ABF files to make them compatible with the Mini Analysis Program
 
 ## Description
 This python script convertes ABF files (Axon™ Binary File Format) with any ABF file version supported by pyABF into
-the compatible version for Mini Analysis Program (ABF Version 1).
+the compatible version for Mini Analysis Program by Synaptosoft (ABF Version 1).
 
 ## Usage
 1. Clone the repository
